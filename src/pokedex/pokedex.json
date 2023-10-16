@@ -1,0 +1,816 @@
+[
+  {
+    "id": 1,
+    "name": "Bulbizarre",
+    "types": ["grass", "poison"],
+    "evolves": 2
+  },
+  {
+    "id": 2,
+    "name": "Herbizarre",
+    "types": ["grass", "poison"],
+    "evolves": 3
+  },
+  {
+    "id": 3,
+    "name": "Florizarre",
+    "types": ["grass", "poison"]
+  },
+  {
+    "id": 4,
+    "name": "Salamèche",
+    "types": ["fire"],
+    "evolves": 5
+  },
+  {
+    "id": 5,
+    "name": "Reptincel",
+    "types": ["fire"],
+    "evolves": 6
+  },
+  {
+    "id": 6,
+    "name": "Dracaufeu",
+    "types": ["fire", "flying"]
+  },
+  {
+    "id": 7,
+    "name": "Carapuce",
+    "types": ["water"],
+    "evolves": 8
+  },
+  {
+    "id": 8,
+    "name": "Carabaffe",
+    "types": ["water"],
+    "evolves": 9
+  },
+  {
+    "id": 9,
+    "name": "Tortank",
+    "types": ["water"]
+  },
+  {
+    "id": 10,
+    "name": "Chenipan",
+    "types": ["bug"],
+    "evolves": 11
+  },
+  {
+    "id": 11,
+    "name": "Chrysacier",
+    "types": ["bug"]
+  },
+  {
+    "id": 12,
+    "name": "Papilusion",
+    "types": ["bug", "flying"]
+  },
+  {
+    "id": 13,
+    "name": "Aspicot",
+    "types": ["bug", "poison"],
+    "evolves": 14
+  },
+  {
+    "id": 14,
+    "name": "Coconfort",
+    "types": ["bug", "poison"],
+    "evolves": 15
+  },
+  {
+    "id": 15,
+    "name": "Dardargnan",
+    "types": ["bug", "poison"]
+  },
+  {
+    "id": 16,
+    "name": "Roucool",
+    "types": ["normal", "flying"],
+    "evolves": 17
+  },
+  {
+    "id": 17,
+    "name": "Roucoups",
+    "types": ["normal", "flying"],
+    "evolves": 18
+  },
+  {
+    "id": 18,
+    "name": "Roucarnage",
+    "types": ["normal", "flying"]
+  },
+  {
+    "id": 19,
+    "name": "Rattata",
+    "types": ["normal"]
+  },
+  {
+    "id": 20,
+    "name": "Rattatac",
+    "types": ["normal"]
+  },
+  {
+    "id": 21,
+    "name": "Piafabec",
+    "types": ["normal", "flying"],
+    "evolves": 22
+  },
+  {
+    "id": 22,
+    "name": "Rapasdepic",
+    "types": ["normal", "flying"]
+  },
+  {
+    "id": 23,
+    "name": "Abo",
+    "types": ["poison"]
+  },
+  {
+    "id": 24,
+    "name": "Arbok",
+    "types": ["poison"]
+  },
+  {
+    "id": 25,
+    "name": "Pikachu",
+    "types": ["electric"],
+    "evolves": 26
+  },
+  {
+    "id": 26,
+    "name": "Raichu",
+    "types": ["electric"]
+  },
+  {
+    "id": 27,
+    "name": "Sabelette",
+    "types": ["ground"],
+    "evolves": 28
+  },
+  {
+    "id": 28,
+    "name": "Sablaireau",
+    "types": ["ground"]
+  },
+  {
+    "id": 29,
+    "name": "Nidoran♀",
+    "types": ["poison"],
+    "evolves": 30
+  },
+  {
+    "id": 30,
+    "name": "Nidorina",
+    "types": ["poison"],
+    "evolves": 31
+  },
+  {
+    "id": 31,
+    "name": "Nidoqueen",
+    "types": ["poison", "ground"]
+  },
+  {
+    "id": 32,
+    "name": "Nidoran♂",
+    "types": ["poison"],
+    "evolves": 33
+  },
+  {
+    "id": 33,
+    "name": "Nidorino",
+    "types": ["poison"],
+    "evolves": 34
+  },
+  {
+    "id": 34,
+    "name": "Nidoking",
+    "types": ["poison", "ground"]
+  },
+  {
+    "id": 35,
+    "name": "Mélofée",
+    "types": ["fairy"],
+    "evolves": 36
+  },
+  {
+    "id": 36,
+    "name": "Mélodelfe",
+    "types": ["fairy"]
+  },
+  {
+    "id": 37,
+    "name": "Goupix",
+    "types": ["fire"],
+    "evolves": 38
+  },
+  {
+    "id": 38,
+    "name": "Feunard",
+    "types": ["fire"]
+  },
+  {
+    "id": 39,
+    "name": "Rondoudou",
+    "types": ["normal", "fairy"]
+  },
+  {
+    "id": 40,
+    "name": "Grodoudou",
+    "types": ["normal", "fairy"]
+  },
+  {
+    "id": 41,
+    "name": "Nosferapti",
+    "types": ["poison", "flying"],
+    "evolves": 42
+  },
+  {
+    "id": 42,
+    "name": "Nosferalto",
+    "types": ["poison", "flying"]
+  },
+  {
+    "id": 43,
+    "name": "Mystherbe",
+    "types": ["grass", "poison"],
+    "evolves": 44
+  },
+  {
+    "id": 44,
+    "name": "Ortide",
+    "types": ["grass", "poison"],
+    "evolves": 45
+  },
+  {
+    "id": 45,
+    "name": "Rafflesia",
+    "types": ["grass", "poison"]
+  },
+  {
+    "id": 46,
+    "name": "Paras",
+    "types": ["bug", "grass"],
+    "evolves": 47
+  },
+  {
+    "id": 47,
+    "name": "Parasect",
+    "types": ["bug", "grass"]
+  },
+  {
+    "id": 48,
+    "name": "Mimitoss",
+    "types": ["bug", "poison"],
+    "evolves": 49
+  },
+  {
+    "id": 49,
+    "name": "Aéromite",
+    "types": ["bug", "poison"]
+  },
+  {
+    "id": 50,
+    "name": "Taupiqueur",
+    "types": ["ground"]
+  },
+  {
+    "id": 51,
+    "name": "Triopikeur",
+    "types": ["ground"]
+  },
+  {
+    "id": 52,
+    "name": "Miaouss",
+    "types": ["normal"]
+  },
+  {
+    "id": 53,
+    "name": "Persian",
+    "types": ["normal"]
+  },
+  {
+    "id": 54,
+    "name": "Psykokwak",
+    "types": ["water"]
+  },
+  {
+    "id": 55,
+    "name": "Akwakwak",
+    "types": ["water"]
+  },
+  {
+    "id": 56,
+    "name": "Férosinge",
+    "types": ["fighting"]
+  },
+  {
+    "id": 57,
+    "name": "Colossinge",
+    "types": ["fighting"]
+  },
+  {
+    "id": 58,
+    "name": "Caninos",
+    "types": ["fire"]
+  },
+  {
+    "id": 59,
+    "name": "Arcanin",
+    "types": ["fire"]
+  },
+  {
+    "id": 60,
+    "name": "Ptitard",
+    "types": ["water"],
+    "evolves": 61
+  },
+  {
+    "id": 61,
+    "name": "Têtarte",
+    "types": ["water"],
+    "evolves": 62
+  },
+  {
+    "id": 62,
+    "name": "Tartard",
+    "types": ["water", "fighting"]
+  },
+  {
+    "id": 63,
+    "name": "Abra",
+    "types": ["psychic"],
+    "evolves": 64
+  },
+  {
+    "id": 64,
+    "name": "Kadabra",
+    "types": ["psychic"],
+    "evolves": 65
+  },
+  {
+    "id": 65,
+    "name": "Alakazam",
+    "types": ["psychic"]
+  },
+  {
+    "id": 66,
+    "name": "Machoc",
+    "types": ["fighting"],
+    "evolves": 67
+  },
+  {
+    "id": 67,
+    "name": "Machopeur",
+    "types": ["fighting"],
+    "evolves": 68
+  },
+  {
+    "id": 68,
+    "name": "Mackogneur",
+    "types": ["fighting"]
+  },
+  {
+    "id": 69,
+    "name": "Chétiflor",
+    "types": ["grass", "poison"],
+    "evolves": 70
+  },
+  {
+    "id": 70,
+    "name": "Boustiflor",
+    "types": ["grass", "poison"],
+    "evolves": 71
+  },
+  {
+    "id": 71,
+    "name": "Empiflor",
+    "types": ["grass", "poison"]
+  },
+  {
+    "id": 72,
+    "name": "Tentacool",
+    "types": ["water", "poison"],
+    "evolves": 73
+  },
+  {
+    "id": 73,
+    "name": "Tentacruel",
+    "types": ["water", "poison"]
+  },
+  {
+    "id": 74,
+    "name": "Racaillou",
+    "types": ["rock", "ground"],
+    "evolves": 75
+  },
+  {
+    "id": 75,
+    "name": "Gravalanch",
+    "types": ["rock", "ground"],
+    "evolves": 76
+  },
+  {
+    "id": 76,
+    "name": "Grolem",
+    "types": ["rock", "ground"]
+  },
+  {
+    "id": 77,
+    "name": "Ponyta",
+    "types": ["fire"],
+    "evolves": 78
+  },
+  {
+    "id": 78,
+    "name": "Galopa",
+    "types": ["fire"]
+  },
+  {
+    "id": 79,
+    "name": "Ramoloss",
+    "types": ["water", "psychic"],
+    "evolves": 80
+  },
+  {
+    "id": 80,
+    "name": "Flagadoss",
+    "types": ["water", "psychic"]
+  },
+  {
+    "id": 81,
+    "name": "Magnéti",
+    "types": ["electric", "steel"],
+    "evolves": 82
+  },
+  {
+    "id": 82,
+    "name": "Magnéton",
+    "types": ["electric", "steel"]
+  },
+  {
+    "id": 83,
+    "name": "Canarticho",
+    "types": ["normal", "flying"]
+  },
+  {
+    "id": 84,
+    "name": "Doduo",
+    "types": ["normal", "flying"],
+    "evolves": 85
+  },
+  {
+    "id": 85,
+    "name": "Dodrio",
+    "types": ["normal", "flying"]
+  },
+  {
+    "id": 86,
+    "name": "Otaria",
+    "types": ["water"],
+    "evolves": 87
+  },
+  {
+    "id": 87,
+    "name": "Lamantine",
+    "types": ["water", "ice"]
+  },
+  {
+    "id": 88,
+    "name": "Tadmorv",
+    "types": ["poison"],
+    "evolves": 89
+  },
+  {
+    "id": 89,
+    "name": "Grotadmorv",
+    "types": ["poison"]
+  },
+  {
+    "id": 90,
+    "name": "Kokiyas",
+    "types": ["water"]
+  },
+  {
+    "id": 91,
+    "name": "Crustabri",
+    "types": ["water", "ice"]
+  },
+  {
+    "id": 92,
+    "name": "Fantominus",
+    "types": ["ghost", "poison"],
+    "evolves": 93
+  },
+  {
+    "id": 93,
+    "name": "Spectrum",
+    "types": ["ghost", "poison"],
+    "evolves": 94
+  },
+  {
+    "id": 94,
+    "name": "Ectoplasma",
+    "types": ["ghost", "poison"]
+  },
+  {
+    "id": 95,
+    "name": "Onix",
+    "types": ["rock", "ground"]
+  },
+  {
+    "id": 96,
+    "name": "Soporifik",
+    "types": ["psychic"]
+  },
+  {
+    "id": 97,
+    "name": "Hypnomade",
+    "types": ["psychic"]
+  },
+  {
+    "id": 98,
+    "name": "Krabby",
+    "types": ["water"],
+    "evolves": 99
+  },
+  {
+    "id": 99,
+    "name": "Krabboss",
+    "types": ["water"]
+  },
+  {
+    "id": 100,
+    "name": "Voltorbe",
+    "types": ["electric"],
+    "evolves": 101
+  },
+  {
+    "id": 101,
+    "name": "Électrode",
+    "types": ["electric"]
+  },
+  {
+    "id": 102,
+    "name": "Noeunoeuf",
+    "types": ["grass", "psychic"],
+    "evolves": 103
+  },
+  {
+    "id": 103,
+    "name": "Noadkoko",
+    "types": ["grass", "psychic"]
+  },
+  {
+    "id": 104,
+    "name": "Osselait",
+    "types": ["ground"],
+    "evolves": 105
+  },
+  {
+    "id": 105,
+    "name": "Ossatueur",
+    "types": ["ground"]
+  },
+  {
+    "id": 106,
+    "name": "Kicklee",
+    "types": ["fighting"]
+  },
+  {
+    "id": 107,
+    "name": "Tygnon",
+    "types": ["fighting"]
+  },
+  {
+    "id": 108,
+    "name": "Excelangue",
+    "types": ["normal"]
+  },
+  {
+    "id": 109,
+    "name": "Smogo",
+    "types": ["poison"]
+  },
+  {
+    "id": 110,
+    "name": "Smogogo",
+    "types": ["poison"]
+  },
+  {
+    "id": 111,
+    "name": "Rhinocorne",
+    "types": ["ground", "rock"],
+    "evolves": 112
+  },
+  {
+    "id": 112,
+    "name": "Rhinoféros",
+    "types": ["ground", "rock"]
+  },
+  {
+    "id": 113,
+    "name": "Leveinard",
+    "types": ["normal"]
+  },
+  {
+    "id": 114,
+    "name": "Saquedeneu",
+    "types": ["grass"]
+  },
+  {
+    "id": 115,
+    "name": "Kangourex",
+    "types": ["normal"]
+  },
+  {
+    "id": 116,
+    "name": "Hypotrempe",
+    "types": ["water"],
+    "evolves": 117
+  },
+  {
+    "id": 117,
+    "name": "Hypocéan",
+    "types": ["water"]
+  },
+  {
+    "id": 118,
+    "name": "Poissirène",
+    "types": ["water"],
+    "evolves": 119
+  },
+  {
+    "id": 119,
+    "name": "Poissoroy",
+    "types": ["water"]
+  },
+  {
+    "id": 120,
+    "name": "Stari",
+    "types": ["water"],
+    "evolves": 121
+  },
+  {
+    "id": 121,
+    "name": "Staross",
+    "types": ["water", "psychic"]
+  },
+  {
+    "id": 122,
+    "name": "M. Mime",
+    "types": ["psychic", "fairy"]
+  },
+  {
+    "id": 123,
+    "name": "Insécateur",
+    "types": ["bug", "flying"]
+  },
+  {
+    "id": 124,
+    "name": "Lippoutou",
+    "types": ["ice", "psychic"]
+  },
+  {
+    "id": 125,
+    "name": "Élektek",
+    "types": ["electric"]
+  },
+  {
+    "id": 126,
+    "name": "Magmar",
+    "types": ["fire"]
+  },
+  {
+    "id": 127,
+    "name": "Scarabrute",
+    "types": ["bug", "fighting"]
+  },
+  {
+    "id": 128,
+    "name": "Tauros",
+    "types": ["normal"]
+  },
+  {
+    "id": 129,
+    "name": "Magicarpe",
+    "types": ["water", "flying"],
+    "evolves": 130
+  },
+  {
+    "id": 130,
+    "name": "Léviator",
+    "types": ["water", "flying"]
+  },
+  {
+    "id": 131,
+    "name": "Lokhlass",
+    "types": ["water", "ice"]
+  },
+  {
+    "id": 132,
+    "name": "Métamorph",
+    "types": ["normal"]
+  },
+  {
+    "id": 133,
+    "name": "Évoli",
+    "types": ["normal"],
+    "evolves": 134
+  },
+  {
+    "id": 134,
+    "name": "Aquali",
+    "types": ["water"]
+  },
+  {
+    "id": 135,
+    "name": "Voltali",
+    "types": ["electric"]
+  },
+  {
+    "id": 136,
+    "name": "Pyroli",
+    "types": ["fire"]
+  },
+  {
+    "id": 137,
+    "name": "Porygon",
+    "types": ["normal"],
+    "evolves": 233
+  },
+  {
+    "id": 138,
+    "name": "Amonita",
+    "types": ["rock", "water"],
+    "evolves": 139
+  },
+  {
+    "id": 139,
+    "name": "Amonistar",
+    "types": ["rock", "water"]
+  },
+  {
+    "id": 140,
+    "name": "Kabuto",
+    "types": ["rock", "water"],
+    "evolves": 141
+  },
+  {
+    "id": 141,
+    "name": "Kabutops",
+    "types": ["rock", "water"]
+  },
+  {
+    "id": 142,
+    "name": "Ptéra",
+    "types": ["rock", "flying"]
+  },
+  {
+    "id": 143,
+    "name": "Ronflex",
+    "types": ["normal"]
+  },
+  {
+    "id": 144,
+    "name": "Artikodin",
+    "types": ["ice", "flying"]
+  },
+  {
+    "id": 145,
+    "name": "Électhor",
+    "types": ["electric", "flying"]
+  },
+  {
+    "id": 146,
+    "name": "Sulfura",
+    "types": ["fire", "flying"]
+  },
+  {
+    "id": 147,
+    "name": "Minidraco",
+    "types": ["dragon"],
+    "evolves": 148
+  },
+  {
+    "id": 148,
+    "name": "Draco",
+    "types": ["dragon"],
+    "evolves": 149
+  },
+  {
+    "id": 149,
+    "name": "Dracolosse",
+    "types": ["dragon", "flying"]
+  },
+  {
+    "id": 150,
+    "name": "Mewtwo",
+    "types": ["psychic"]
+  },
+  {
+    "id": 151,
+    "name": "Mew",
+    "types": ["psychic"]
+  }
+]

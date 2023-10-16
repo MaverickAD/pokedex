@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "name": "fire",
+    "color": "red"
+  },
+  {
+    "id": 2,
+    "name": "grass",
+    "color": "green"
+  },
+    {
+        "id": 3,
+        "name": "water",
+        "color": "blue"
+    },
+    {
+        "id": 4,
+        "name": "electric",
+        "color": "yellow"
+    },
+    {
+        "id": 5,
+        "name": "ice",
+        "color": "blue"
+    },
+    {
+        "id": 6,
+        "name": "fighting",
+        "color": "red"
+    },
+    {
+        "id": 7,
+        "name": "poison",
+        "color": "purple"
+    },
+    {
+        "id": 8,
+        "name": "ground",
+        "color": "orange"
+    },
+    {
+        "id": 9,
+        "name": "flying",
+        "color": "gray"
+    },
+    {
+        "id": 10,
+        "name": "psychic",
+        "color": "pink"
+    },
+    {
+        "id": 11,
+        "name": "bug",
+        "color": "yellow"
+    },
+    {
+        "id": 12,
+        "name": "rock",
+        "color": "gray"
+    },
+    {
+        "id": 13,
+        "name": "ghost",
+        "color": "purple"
+    },
+    {
+        "id": 14,
+        "name": "dragon",
+        "color": "purple"
+    },
+    {
+        "id": 15,
+        "name": "steel",
+        "color": "gray"
+    },
+    {
+        "id": 16,
+        "name": "fairy",
+        "color": "pink"
+    }
+]
